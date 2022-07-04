@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @me-harry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-me-harry/me-harry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi, I’m @me-harry
+-  I’m interested in CODING,MANAGING AND ORGANISING
+-  I’m currently learning COMPUTER ENGINEERING
+-  I’m looking to collaborate on VARIOUS PROJECTS THAT BRINGS TOGETHER GOOD BRAINS
