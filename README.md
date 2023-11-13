@@ -1,4 +1,1 @@
--  Hi, I’m @me-harry
--  I’m interested in CODING,MANAGING AND ORGANISING
--  I’m currently learning COMPUTER ENGINEERING
--  I’m looking to collaborate on VARIOUS PROJECTS THAT BRINGS TOGETHER GOOD BRAINS
+-  Hi there! I'm Harshit Mishra, a passionate software developer with expertise in Python,Html,CSS,JavaScript,Sqlite3. Currently working on Email Validator. Contributing to open source and always eager to learn and collaborate.
